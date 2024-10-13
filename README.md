@@ -6,7 +6,7 @@ By carefully examining variables such as loan amount, loan type, interest rates,
 the project categorizes loans into different risk levels. Feature engineering, such as the introduction of a “Risk Category,” provides a deeper insight into loan default trends, 
 supporting more informed lending decisions without using machine learning models.
 
-##About Data
+## About Data
 
 'ID','Year' ,'Gender'-: Represents ID of customer (148670 unique IDs), gender we have Male,Female, joint,& gender missing.
 ‘'Loan_limit': We have two type Fixed/Confirmed and Not Fixed/Not Confirmed
